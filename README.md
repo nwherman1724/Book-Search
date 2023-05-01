@@ -4,22 +4,22 @@
 
   ## :blue_book: Description
 
- 
+ This app is a book search that is run on a MongoDB database and a GraphQL Server. The books are all taken from the googlebooks api.
 
   ## :bookmark_tabs: Table of Contents
 
   - [Description](#description)
-  - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contribution](#contribution)
   - [Questions](#questions)
-
-  ## :hammer_and_wrench: Installation
  
 
   ## :zap: Usage
-  
+
+Demo:
+
+https://user-images.githubusercontent.com/93491747/235446010-1ab21205-c415-4332-a8e1-35b90756b186.mov
 
   ## :lock: License
   
