@@ -5,6 +5,8 @@
   ## :blue_book: Description
 
  This app is a book search that is run on a MongoDB database and a GraphQL Server. The books are all taken from the googlebooks api.
+ 
+ Deployed App: https://mysterious-castle-71904.herokuapp.com/
 
   ## :bookmark_tabs: Table of Contents
 
